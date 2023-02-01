@@ -1,10 +1,10 @@
-git clone
-git config
 git add
-git restore
-git pull
+git clone
+git merge
 git push
+git pull
+git restore
 git commit
 git branch
-git checkout
-git merge
+git add
+git config
